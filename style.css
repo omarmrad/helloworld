@@ -1,0 +1,9 @@
+.main{
+	border: 1px solid #098765;
+	margin: 0;
+	height: auto;
+}
+
+.display-off{
+	display: none;
+}
